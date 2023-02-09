@@ -4,14 +4,14 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Abner Freire Martins
-* Diogo Padoveis 
+* Diogo Padoveis Antunes
 * Maria Luiza de Freitas Trindade
 * Miguel Lima Barcellos
 
 ## Professores responsáveis
 
 * Leonardo Vilela Cardoso
-* Nome completo do professor 2
+
 
 ## Instruções de utilização
 
