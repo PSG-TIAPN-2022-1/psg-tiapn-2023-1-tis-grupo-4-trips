@@ -53,7 +53,7 @@ Sistema de Informação
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O problema em questão se refere a dificuldade que as pessoas tem de conseguir pacotes de viagem em preços favoráveis, de maneira segura, confiável e prática. Muitos sites ou agências oferecem preços exorbitantes para pacotes que não condizem com o esperado, além de locais perigosos com possíveis golpes.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -73,7 +73,7 @@ Sistema de Informação
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Temos como objetivo para solucionar tal problema o desenvolvimento de um software oferecendo de maneira simples e prática, pacotes de viagem e relacionados mostrando melhores preços e opções para se realizar uma viagem. Temos como objetivo específico oferecer melhores preços para pacotes de viagem, além de ter um enfoque grande na segurança do cliente, para que posssa usufruir de sua viagem da melhor maneira.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
