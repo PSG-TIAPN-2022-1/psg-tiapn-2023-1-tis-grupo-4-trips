@@ -53,7 +53,7 @@ Sistema de Informação
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Temos como objetivo resolver o problema envolvendo a dificuldade das pessoas de conseguir pacotes de viagem em preços favoráveis, de maneira segura, confiável e prática. Muitos sites ou agências oferecem preços exorbitantes para pacotes que não condizem com o esperado.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
