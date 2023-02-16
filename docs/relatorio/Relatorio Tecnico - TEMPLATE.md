@@ -86,7 +86,7 @@ Temos como objetivo para solucionar tal problema o desenvolvimento de um softwar
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Estamos propondo trabalhar com a área de pacotes de viagem após notar a quantidade exorbitante de pessoas sofrendo com golpes ou fraudes em sua hora de lazer, o que é esperado em uma viagem nesse tipo. De acordo com o sócio da KPMG Claúdio Sotto, "30% das tentativas de compra de passagem pela internet são fraudulentas", reforça a gravidade do assunto envolvendo agências de viagem online.
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
