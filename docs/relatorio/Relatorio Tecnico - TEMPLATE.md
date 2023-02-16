@@ -53,7 +53,7 @@ Sistema de Informação
 
 ## Problema
 
-O problema em questão se refere a dificuldade que as pessoas tem de conseguir pacotes de viagem em preços favoráveis, de maneira segura, confiável e prática. Muitos sites ou agências oferecem preços exorbitantes para pacotes que não condizem com o esperado, além de locais perigosos com possíveis golpes.
+......  COLOQUE AQUI O SEU TEXTO ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -121,7 +121,7 @@ O problema em questão se refere a dificuldade que as pessoas tem de conseguir p
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A descrição do projeto foi definida após analizarmos o nosso publico alvo , as suas entrevistas com os usuarios e o objetivo que queremos trazer com o site . As respostas obtidas nestas pesquisas colocamos em forma de personas e nas historia dos usuários .
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
