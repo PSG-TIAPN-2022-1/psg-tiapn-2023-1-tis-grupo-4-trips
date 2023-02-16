@@ -113,7 +113,6 @@ Estamos propondo trabalhar com a área de pacotes de viagem após notar a quanti
 
 Nesta etapa de especificação iremos analisar as personas, mapas de empatia, história e requisitos, a partir da análise do nosso público alvo e do nosso objetivo, iremos concluir com as entrevistas aos usuários para saber outros pontos de vistas. E com as respostas obtidas nestas pesquisas colocamos em forma nosso projeto de interfase, possibilitando um plano de fácil entendimento e utilidade.
 
-
 ## Personas e Mapas de Empatia
 
 ......  COLOQUE AQUI O SEU TEXTO ......
