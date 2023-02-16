@@ -1,5 +1,5 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`TRIPS`  
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
@@ -14,8 +14,10 @@ Sistema de Informação
 > Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> -  Abner Freire Martins
+> -  Diogo Padoveis Antunes
+> -  Maria Luiza de Freitas Trindade
+> -  Miguel Lima Barcellos
 
 # Estrutura do Documento
 
