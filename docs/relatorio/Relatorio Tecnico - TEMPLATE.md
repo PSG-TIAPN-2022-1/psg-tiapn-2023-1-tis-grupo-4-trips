@@ -53,7 +53,7 @@ Sistema de Informação
 
 ## Problema
 
-O problema em questão se refere a dificuldade que as pessoas tem de conseguir pacotes de viagem em preços favoráveis, de maneira segura, confiável e prática. Muitos sites ou agências oferecem preços exorbitantes para pacotes que não condizem com o esperado, além de locais perigosos com possíveis golpes.
+......  COLOQUE AQUI O SEU TEXTO ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -73,7 +73,7 @@ O problema em questão se refere a dificuldade que as pessoas tem de conseguir p
 
 ## Objetivos
 
-Temos como objetivo para solucionar tal problema o desenvolvimento de um software oferecendo de maneira simples e prática, pacotes de viagem e relacionados mostrando melhores preços e opções para se realizar uma viagem. Temos como objetivo específico oferecer melhores preços para pacotes de viagem, além de ter um enfoque grande na segurança do cliente, para que posssa usufruir de sua viagem da melhor maneira.
+......  COLOQUE AQUI O SEU TEXTO ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -86,7 +86,7 @@ Temos como objetivo para solucionar tal problema o desenvolvimento de um softwar
 
 ## Justificativa
 
-Estamos propondo trabalhar com a área de pacotes de viagem após notar a quantidade exorbitante de pessoas sofrendo com golpes ou fraudes em sua hora de lazer, o que é esperado em uma viagem nesse tipo. De acordo com o sócio da KPMG Claúdio Sotto, "30% das tentativas de compra de passagem pela internet são fraudulentas", reforça a gravidade do assunto envolvendo agências de viagem online.
+......  COLOQUE AQUI O SEU TEXTO ......
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -121,11 +121,8 @@ Estamos propondo trabalhar com a área de pacotes de viagem após notar a quanti
  
 # Especificações do Projeto
 
-A descrição do projeto foi definida após analizarmos o nosso publico alvo , as suas entrevistas com os usuarios e o objetivo que queremos trazer com o site . As respostas obtidas nestas pesquisas colocamos em forma de personas e nas historia dos usuários .
+Nesta etapa de especificação iremos analizar as personas , mapas de empatia , historia e requesitos, a partir da analise do nosso publico alvo e do nosso objetivo, iremos concluir com as entevistas aos usuarios para saber outros pontos de vistas. E com as  respostas obtidas nestas pesquisas colocamos em forma nosso projeto de interfase , possibilitando um plano de facil entendimento e utilidade.
 
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas e Mapas de Empatia
 
