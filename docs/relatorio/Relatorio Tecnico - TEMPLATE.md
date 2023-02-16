@@ -63,7 +63,7 @@ O problema em questão se refere a dificuldade que as pessoas tem de conseguir p
 
 ## Objetivos
 
-Temos como objetivo para solucionar tal problema o desenvolvimento de um software oferecendo de maneira simples e prática, pacotes de viagem e relacionados mostrando melhores preços e opções para se realizar uma viagem, além de catálogos de turismo com alta variedade para dar opções para o cliente. Temos como objetivo específico oferecer melhores preços para pacotes de viagem, além de ter um enfoque grande na segurança do cliente, para que posssa usufruir de sua viagem da melhor maneira.
+Temos como objetivo para solucionar tal problema o desenvolvimento de um software oferecendo de maneira simples e prática, pacotes de viagem e relacionados mostrando melhores preços e opções para se realizar uma viagem, além de catálogos de turismo com alta variedade para dar opções para o cliente. Temos como objetivo específico oferecer melhores preços para pacotes de viagem, além de ter um enfoque grande na segurança do cliente, para que possa usufruir de sua viagem da melhor maneira.
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
