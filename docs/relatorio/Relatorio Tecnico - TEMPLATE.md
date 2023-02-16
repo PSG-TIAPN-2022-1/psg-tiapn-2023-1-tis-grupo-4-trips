@@ -1,7 +1,5 @@
 # Informações do Projeto
-`TRIPS`  
-
-......  COLOQUE AQUI O SEU TEXTO ......
+`TRIPS PACOTES `  
 
 `CURSO` 
 
