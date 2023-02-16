@@ -9,9 +9,6 @@ Sistema de Informação
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
 >
 > Os membros do grupo são: 
 > -  Abner Freire Martins
