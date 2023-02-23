@@ -114,8 +114,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Maria Gabriela Soares     | Passagens aereas inclusas               | Facilitar o Transporte |
 |Joao Pedro Oliveira       |Parque de Diversoes                | Lazer com seu irmao novo |
 |Joao Pedro Oliveira      | Hotel com piscina                | Maior lazer |
-|Luis Souza Rodrigues      | Roteiro de Viagens                | Passeios |
-|Luis Souza Rodrigues       | Espaço seguro para crianças                |Maior segurança |
+|Luis Souza Rodrigues      | Alterar permissões                 | Permitir que possam administrar contas |
+|Luis Souza Rodrigues       | Alterar permissões                 | Permitir que possam administrar contas |
 |Ana Almeida      | Preços acessiveis                 | Para conseguir efetuar o pagamento |
 |José Almeida       | Transporte na viagem                | Se locomover de um lugar para o outro |
 
@@ -192,6 +192,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 # Projeto de Interface
 
 ......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+
+
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
