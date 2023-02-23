@@ -53,8 +53,7 @@ Sistema de Informação
 
 ## Problema
 
-O problema em questão se refere a dificuldade que as pessoas tem de conseguir pacotes de viagem em preços favoráveis, de maneira segura, confiável e prática. Muitos sites ou agências oferecem preços exorbitantes para pacotes que não condizem com o esperado, além de locais perigosos com possíveis golpes.
-
+O problema em questão se refere a dificuldade que as pessoas tem de conseguir pacotes de viagem em preços favoráveis, de maneira segura, confiável e prática. Alguns sites ou agências oferecem preços exorbitantes para pacotes que não condizem com o esperado, além de locais perigosos com possíveis golpes. O nosso projeto buscará por preços competitivos com a concorrência de maneira condizente e justa em busca da melhor experiência para o cliente.
 
 ## Objetivos
 
@@ -160,13 +159,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+> Fornecer informações sobre viagens, os melhores preços e avaliados.
+> Permitir que o usuário altere informações pessoais: Na aba de login terá informações de recuperação e mudança de dados para acesso.
+> Permitir que o usuário faça um cadastro: Na aba principal o usuário terá acesso a criação do seu cadastro.
+> Permitir que o cadastro seja excluído: Na área do usuário ter a opção para excluir login.
+> Uma comunicação entre o usuário e os hoteis escolhidos.
 
 ## User Flow
 
