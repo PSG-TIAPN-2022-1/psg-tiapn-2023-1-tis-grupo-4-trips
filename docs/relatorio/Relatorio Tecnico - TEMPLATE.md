@@ -172,22 +172,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
 > - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
+>
 > **Exemplo**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+> ![36220d24-5383-4e07-a5d0-9754c6ebf70a](https://user-images.githubusercontent.com/103125164/220947577-688e5723-f41b-41d6-a5ce-d2802e5916fc.jpg)
+> ![69860513-329c-4237-adf9-16f4e3105b88](https://user-images.githubusercontent.com/103125164/220947596-139812ce-6ce0-4136-8da5-005ed45d2ec3.jpg)
+> ![43bbd9b3-6605-4077-b75a-56633a1feb95](https://user-images.githubusercontent.com/103125164/220947667-12c545b5-049e-448a-a0b1-d648ba333115.jpg)
+> ![c3208a6b-f4bd-4526-999f-558d76ec84d1](https://user-images.githubusercontent.com/103125164/220947742-9e60774b-56a5-4740-b9e6-4e2d58a99271.jpg)
+> ![aed48586-c8da-43bd-83af-c021dc2ba70b](https://user-images.githubusercontent.com/103125164/220947772-1267e9b5-a552-455c-8efe-73846bffaf3d.jpg)
 
 
 # Metodologia
