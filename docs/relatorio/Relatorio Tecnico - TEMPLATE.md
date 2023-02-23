@@ -88,7 +88,17 @@ A partir de algumas pesquisas fizemos alguns personas , que são clientes ideas 
 > ![1ba5234a-d36f-426f-b7ba-6e8a2ca3a7e1](https://user-images.githubusercontent.com/103125164/220934879-f21891d9-e02c-4ba0-835b-705df6f6cc9a.jpg)
 > ![b7162692-c42d-4124-a988-3101707bed17](https://user-images.githubusercontent.com/103125164/220934986-dcbaca4f-4730-4658-b5e4-c7f4c920fe20.jpg)
 > ![f3c6ac84-a794-4f5e-a1b9-1d61bdd05ad9](https://user-images.githubusercontent.com/103125164/220935090-8bb88c10-7d5c-4998-8508-54fcd2d941e1.jpg)
+> 
+>  **Mapas de Empatia**
+>  
+>  ![74d3ecd4-e418-47f1-8a60-91ebe973691d](https://user-images.githubusercontent.com/103125164/220939772-13ee8673-26fd-4a01-afaa-c7e803e767eb.jpg)
+>  ![d7232358-fcd8-492b-a1a5-825a87e55bf2](https://user-images.githubusercontent.com/103125164/220940113-753ed83e-6054-45cd-8551-1ea619598442.jpg)
+>  ![d3c9d568-4c2a-440c-87c2-8aecc396bebd](https://user-images.githubusercontent.com/103125164/220941349-361b9c79-66f0-41ba-9cf3-4b867daeb010.jpg)
+>  
 
+
+ 
+ 
 
 
 ## Histórias de Usuários
@@ -188,11 +198,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
 
-- Fornecer informações sobre viagens, os melhores preços e avaliados.
-- Permitir que o usuário altere informações pessoais: Na aba de login terá informações de recuperação e mudança de dados para acesso.
-- Permitir que o usuário faça um cadastro: Na aba principal o usuário terá acesso a criação do seu cadastro.
-- Permitir que o cadastro seja excluído: Na área do usuário ter a opção para excluir login.
-- Uma comunicação entre o usuário e os hoteis escolhidos.  
 
 
 > Apresente as principais interfaces da solução. Discuta como 
@@ -224,14 +229,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 ## Wireframes
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
-
-![2fa987be-d7d0-49fc-bdac-815579dc62f1](https://user-images.githubusercontent.com/103612285/220941664-6960e95e-6eb1-4a11-94a0-9127c6fd2c42.jpg)
-
-![46e69b9b-bef9-4e57-ba3e-ac7b23e765dc](https://user-images.githubusercontent.com/103612285/220941773-e18967f4-44a0-4210-9f57-09f37cd35d9d.jpg)
-
-![0da4ba55-e6fb-4162-8136-ba08c29655bf](https://user-images.githubusercontent.com/103612285/220942007-2f9c3f09-bad7-4518-8996-f5165f8f601f.jpg)
-
-
 
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
