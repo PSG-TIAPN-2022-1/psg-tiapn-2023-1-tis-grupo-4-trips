@@ -204,15 +204,27 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 ## Divisão de Papéis
+A equipe utiliza o Scrum, que é um método ágil para o desenvolvimento do projeto. 
+ 
+A equipe está organizada da seguinte forma: 
+ 
+•	Scrum Master: Leornardo Vilela Cardoso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+•	Equipe de TIS
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+o Maria Luiza  
+o Abner Freire 
+o Diogo Padoveis 
+o	Miguel Barcellos
 
+Para organização das tarefas utilizamos o Trello, estruturado da seguinte forma 
+ 
+•	Backlog: Uma lista das coisas que achamos que queremos fazer, talvez não totalmente prontas para o trabalho, mas com alta probabilidade de serem trabalhadas. Esta é a área de teste onde as especificações devem ser aprimoradas. Não há limite para o tamanho da lista, mas devemos reconsiderar se ficar muito longa. 
+
+•	A fazer: Esta é uma lista de coisas boas para se trabalhar, priorizadas. 
+Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas prontas para o trabalho. 
+
+•	Em Andamento: Reunimos para solucionar os problemas que o Scrum Master apresentou para nos , portanto iremos avaliar e fazer as mudanças 
 
 ## Ferramentas
 
@@ -222,8 +234,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
-|Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp  | (https://marvelapp.com/prototype/923c92a)| 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do
