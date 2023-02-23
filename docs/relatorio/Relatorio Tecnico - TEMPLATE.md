@@ -138,8 +138,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Cadastro de usuarios | ALTA | 
+|RF-002| Login   | ALTA |
+|RF-003| Efetuar pagamento  | ALTA |
+|RF-004| Mecanismo de busca   | ALTA |
+|RF-005| Filtro  | MÉDIA |
+|RF-006| Avaliar pacotes   | BAIXA |
+|RF-007| Mensagem   | BAIXA |
+
 
 
 ### Requisitos não Funcionais
@@ -147,7 +153,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 4s |  BAIXA | 
+|RNF-003| O site será feito em HTML5, CSS E JAVASCRIPT |  ALTA | 
+|RNF-004| O site deve comunicar com banco de dados sql |  ALTA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
