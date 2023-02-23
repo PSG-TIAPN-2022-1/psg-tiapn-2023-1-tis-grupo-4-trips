@@ -225,6 +225,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
+![2fa987be-d7d0-49fc-bdac-815579dc62f1](https://user-images.githubusercontent.com/103612285/220941664-6960e95e-6eb1-4a11-94a0-9127c6fd2c42.jpg)
+
+![46e69b9b-bef9-4e57-ba3e-ac7b23e765dc](https://user-images.githubusercontent.com/103612285/220941773-e18967f4-44a0-4210-9f57-09f37cd35d9d.jpg)
+
+![0da4ba55-e6fb-4162-8136-ba08c29655bf](https://user-images.githubusercontent.com/103612285/220942007-2f9c3f09-bad7-4518-8996-f5165f8f601f.jpg)
+
+
+
 > Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
 > páginas. Um wireframe web é uma ilustração semelhante ao
