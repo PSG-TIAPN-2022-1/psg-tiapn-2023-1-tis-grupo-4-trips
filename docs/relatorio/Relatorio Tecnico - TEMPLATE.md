@@ -114,8 +114,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Maria Gabriela Soares     | Passagens aereas inclusas               | Facilitar o Transporte |
 |Joao Pedro Oliveira       |Parque de Diversoes                | Lazer com seu irmao novo |
 |Joao Pedro Oliveira      | Hotel com piscina                | Maior lazer |
-|Luis Souza Rodrigues      | Alterar permissões                 | Permitir que possam administrar contas |
-|Luis Souza Rodrigues       | Alterar permissões                 | Permitir que possam administrar contas |
+|Luis Souza Rodrigues      | Roteiro de Viagens                | Passeios |
+|Luis Souza Rodrigues       | Espaço seguro para crianças                |Maior segurança |
 |Ana Almeida      | Preços acessiveis                 | Para conseguir efetuar o pagamento |
 |José Almeida       | Transporte na viagem                | Se locomover de um lugar para o outro |
 
