@@ -111,13 +111,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Maria Gabriela Soares | Viajar com segurança          | Não esquecer de fazê-las               |
-|Maria Gabriela Soares     | Um Agente de turismo                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Maria Gabriela Soares     | Passagens aereas inclusas               | Facilitar o Transporte |
+|Joao Pedro Oliveira       |Parque de Diversoes                | Lazer com seu irmao novo |
+|Joao Pedro Oliveira      | Hotel com piscina                | Maior lazer |
+|Luis Souza Rodrigues      | Alterar permissões                 | Permitir que possam administrar contas |
+|Luis Souza Rodrigues       | Alterar permissões                 | Permitir que possam administrar contas |
+|Ana Almeida      | Preços acessiveis                 | Para conseguir efetuar o pagamento |
+|José Almeida       | Transporte na viagem                | Se locomover de um lugar para o outro |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
