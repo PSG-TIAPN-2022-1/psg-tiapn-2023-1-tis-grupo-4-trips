@@ -107,7 +107,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Maria Gabriela Soares | Segurança      | Um melhor aproveitamento da viagem sem preocupação           |
+|Maria Gabriela Soares | Segurança da bagagem     | Um melhor aproveitamento da viagem sem preocupação           |
 |Maria Gabriela Soares     | Passagens aereas inclusas               | Facilitar o Transporte |
 |Joao Pedro Oliveira       |Parque de Diversoes                | Lazer com seu irmao novo |
 |Joao Pedro Oliveira      | Hotel com piscina                | Maior lazer |
