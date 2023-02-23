@@ -78,18 +78,15 @@ Nesta etapa de especificação iremos analisar as personas, mapas de empatia, hi
 
 ## Personas e Mapas de Empatia
 
-A seguir algumas 
+A partir de algumas pesquisas fizemos alguns personas , que são clientes ideas de um negócio :
 
-![5d390f29-5d1a-4eee-b08a-d8caadf91c72](https://user-images.githubusercontent.com/103125164/220934510-c4333c81-9f13-4b43-8a74-570fc34a67ed.jpg)
-
->
->
 > 
 > **Exemplo de Persona**
-> 
-> ![Exemplo de Persona](imaages/../images/persona.png)
-> 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+> ![5d390f29-5d1a-4eee-b08a-d8caadf91c72](https://user-images.githubusercontent.com/103125164/220934732-2aff9598-39e6-492c-8975-9bede00ce38e.jpg)
+> ![1ba5234a-d36f-426f-b7ba-6e8a2ca3a7e1](https://user-images.githubusercontent.com/103125164/220934879-f21891d9-e02c-4ba0-835b-705df6f6cc9a.jpg)
+> ![b7162692-c42d-4124-a988-3101707bed17](https://user-images.githubusercontent.com/103125164/220934986-dcbaca4f-4730-4658-b5e4-c7f4c920fe20.jpg)
+> ![f3c6ac84-a794-4f5e-a1b9-1d61bdd05ad9](https://user-images.githubusercontent.com/103125164/220935090-8bb88c10-7d5c-4998-8508-54fcd2d941e1.jpg)
+
 
 
 ## Histórias de Usuários
