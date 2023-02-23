@@ -96,9 +96,6 @@ A partir de algumas pesquisas fizemos alguns personas , que são clientes ideas 
 >  
 
 
- 
- 
-
 
 ## Histórias de Usuários
 
@@ -159,11 +156,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-> Fornecer informações sobre viagens, os melhores preços e avaliados.
-> Permitir que o usuário altere informações pessoais: Na aba de login terá informações de recuperação e mudança de dados para acesso.
-> Permitir que o usuário faça um cadastro: Na aba principal o usuário terá acesso a criação do seu cadastro.
-> Permitir que o cadastro seja excluído: Na área do usuário ter a opção para excluir login.
-> Uma comunicação entre o usuário e os hoteis escolhidos.
+> - Fornecer informações sobre viagens, os melhores preços e avaliados.
+> - Permitir que o usuário altere informações pessoais: Na aba de login terá informações de recuperação e mudança de dados para acesso.
+> - Permitir que o usuário faça um cadastro: Na aba principal o usuário terá acesso a criação do seu cadastro.
+> - Permitir que o cadastro seja excluído: Na área do usuário ter a opção para excluir login.
+> - Uma comunicação entre o usuário e os hoteis escolhidos.
 
 ## User Flow
 
