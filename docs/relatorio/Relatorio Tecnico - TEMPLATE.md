@@ -224,7 +224,7 @@ Para organização das tarefas utilizamos o Trello, estruturado da seguinte form
 > - A fazer: Esta é uma lista de coisas boas para se trabalhar, priorizadas. 
 Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas prontas para o trabalho. 
 
-> - 	Em Andamento: Reunimos para solucionar os problemas que o Scrum Master apresentou para nos , portanto iremos avaliar e fazer as mudanças 
+> - Em Andamento: Reunimos para solucionar os problemas que o Scrum Master apresentou para nos , portanto iremos avaliar e fazer as mudanças 
 
 ## Ferramentas
 
