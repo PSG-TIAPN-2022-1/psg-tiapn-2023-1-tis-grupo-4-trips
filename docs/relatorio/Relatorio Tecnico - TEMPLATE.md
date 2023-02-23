@@ -212,19 +212,19 @@ A equipe está organizada da seguinte forma:
 
 •	Equipe de TIS
 
-o Maria Luiza  
-o Abner Freire 
-o Diogo Padoveis 
-o	Miguel Barcellos
+> - Maria Luiza  
+> - Abner Freire 
+> - Diogo Padoveis 
+> - Miguel Barcellos
 
 Para organização das tarefas utilizamos o Trello, estruturado da seguinte forma 
  
-•	Backlog: Uma lista das coisas que achamos que queremos fazer, talvez não totalmente prontas para o trabalho, mas com alta probabilidade de serem trabalhadas. Esta é a área de teste onde as especificações devem ser aprimoradas. Não há limite para o tamanho da lista, mas devemos reconsiderar se ficar muito longa. 
+> - Backlog: Uma lista das coisas que achamos que queremos fazer, talvez não totalmente prontas para o trabalho, mas com alta probabilidade de serem trabalhadas. Esta é a área de teste onde as especificações devem ser aprimoradas. Não há limite para o tamanho da lista, mas devemos reconsiderar se ficar muito longa. 
 
-•	A fazer: Esta é uma lista de coisas boas para se trabalhar, priorizadas. 
+> - A fazer: Esta é uma lista de coisas boas para se trabalhar, priorizadas. 
 Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas prontas para o trabalho. 
 
-•	Em Andamento: Reunimos para solucionar os problemas que o Scrum Master apresentou para nos , portanto iremos avaliar e fazer as mudanças 
+> - 	Em Andamento: Reunimos para solucionar os problemas que o Scrum Master apresentou para nos , portanto iremos avaliar e fazer as mudanças 
 
 ## Ferramentas
 
