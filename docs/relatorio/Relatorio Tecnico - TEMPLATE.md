@@ -110,7 +110,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Maria Gabriela Soares | Viajar com segurança          | Não esquecer de fazê-las               |
+|Maria Gabriela Soares     | Um Agente de turismo                 | Permitir que possam administrar contas |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
