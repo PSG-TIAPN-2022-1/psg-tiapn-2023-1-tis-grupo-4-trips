@@ -57,7 +57,12 @@ O problema em questão se refere a dificuldade que as pessoas tem de conseguir p
 
 ## Objetivos
 
-Temos como objetivo para solucionar tal problema o desenvolvimento de um software oferecendo de maneira simples e prática, pacotes de viagem e relacionados mostrando melhores preços e opções para se realizar uma viagem, além de catálogos de turismo com alta variedade para dar opções para o cliente. Temos como objetivo específico oferecer melhores preços para pacotes de viagem, além de ter um enfoque grande na segurança do cliente, para que possa usufruir de sua viagem da melhor maneira. Também disponibilizaremos um sistema de avaliação para que o cliente possa analisar qual o melhor lugar a se viajar e em que hotel se hospedar, além de uma comunicação entre o usuário e os hotéis escolhidos.
+O foco do nosso projeto é criar um site de agenciamento de viagens prático e variado para o cliente, com um preço justo e e com catálogos de turismo com alta variedade a fim de dar opções para o cliente. Como objetivos específicos, podemos ressaltar:
+* Pacotes de viagem e relacionados oferecendo preços e opções para turismo
+* Funcionalidades simples e de fácil manuseio.
+* Enfoque grande na área da segurança do cliente.
+* Sistema de avaliação para que o cliente possa analisar qual o melhor lugar e em que hotel se hospedar.
+* Uma comunicação entre o usuário e os hotéis escolhidos
 
 
 
@@ -228,16 +233,36 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 ## Ferramentas
 
-Utilizamos as seguintes ferramentas: Miro, GitHub, Figma e MarvelApp.
-
+......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Kanban  | Trello | https://trello.com/b/ix31yRXW/projeto-trips  | 
-|Processo de Design Thinkging  | Miro | https://miro.com/app/board/uXjVOBQZJrM=/   | 
-|Protótipo Interativo    | MarvelApp | https://marvelapp.com/prototype/923c92a/screen/90700420 | 
-|Repositório de código      | GitHub | https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/blob/master/docs/relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md | 
+|Processo de Design Thinkgin  | Miro |  https://miro.com/XXXXXXX | 
+|Repositório de código | GitHub | https://github.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp  | (https://marvelapp.com/prototype/923c92a)| 
 
+>
+> Liste as ferramentas empregadas no desenvolvimento do
+> projeto, justificando a escolha delas, sempre que possível.
+> 
+> As ferramentas empregadas no projeto são:
+> 
+> - Editor de código.
+> - Ferramentas de comunicação
+> - Ferramentas de diagramação
+> - Plataforma de hospedagem
+> 
+> O editor de código foi escolhido porque ele possui uma integração com o
+> sistema de versão. As ferramentas de comunicação utilizadas possuem
+> integração semelhante e por isso foram selecionadas. Por fim, para criar
+> diagramas utilizamos essa ferramenta por melhor captar as
+> necessidades da nossa solução.
+> 
+> **Links Úteis - Hospedagem**:
+> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
+> - [Crie seu Site com o HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
+> - [GoDady](https://br.godaddy.com/how-to)
+> - [GitHub Pages](https://pages.github.com/)
 
 ## Controle de Versão
 
