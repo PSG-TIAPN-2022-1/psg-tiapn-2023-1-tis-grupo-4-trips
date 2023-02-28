@@ -228,7 +228,17 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+Utilizamos as seguintes ferramentas: Miro, GitHub, Figma e MarvelApp.
+
+
+| Ambiente  | Plataforma              |Link de Acesso |
+|-----------|-------------------------|---------------|
+|Kanban  | Trello | https://trello.com/b/ix31yRXW/projeto-trips  | 
+|Processo de Design Thinkging  | Miro | https://miro.com/app/board/uXjVOBQZJrM=/   | 
+|Protótipo Interativo    | MarvelApp | https://marvelapp.com/prototype/923c92a/screen/90700420 | 
+|Repositório de código      | GitHub | https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/blob/master/docs/relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md | 
+
+
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
