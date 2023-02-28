@@ -123,7 +123,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Cadastro de usuarios | ALTA | 
-|RF-002| Login   | ALTA |
+|RF-002| Login   | MEDIA |
 |RF-003| Efetuar pagamento  | ALTA |
 |RF-004| Mecanismo de busca (buscar por um pacote específico)   | ALTA |
 |RF-005| Filtro de buscas (escolher local e preços)  | MÉDIA |
