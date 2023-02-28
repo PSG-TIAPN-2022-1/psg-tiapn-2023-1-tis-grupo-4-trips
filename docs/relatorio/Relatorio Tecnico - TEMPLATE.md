@@ -57,7 +57,7 @@ O problema em questão se refere a dificuldade que as pessoas tem de conseguir p
 
 ## Objetivos
 
-Temos como objetivo para solucionar tal problema o desenvolvimento de um software oferecendo de maneira simples e prática, pacotes de viagem e relacionados mostrando melhores preços e opções para se realizar uma viagem, além de catálogos de turismo com alta variedade para dar opções para o cliente. Temos como objetivo específico oferecer melhores preços para pacotes de viagem, além de ter um enfoque grande na segurança do cliente, para que possa usufruir de sua viagem da melhor maneira. Também disponibilizaremos um sistema de avaliação para que o cliente possa analisar qual o melhor lugar a se viajar e em que hotel se hospedar, além de uma comunicação entre o usuário e os hotéis escolhidos
+Temos como objetivo para solucionar tal problema o desenvolvimento de um software oferecendo de maneira simples e prática, pacotes de viagem e relacionados mostrando melhores preços e opções para se realizar uma viagem, além de catálogos de turismo com alta variedade para dar opções para o cliente. Temos como objetivo específico oferecer melhores preços para pacotes de viagem, além de ter um enfoque grande na segurança do cliente, para que possa usufruir de sua viagem da melhor maneira. Também disponibilizaremos um sistema de avaliação para que o cliente possa analisar qual o melhor lugar a se viajar e em que hotel se hospedar, além de uma comunicação entre o usuário e os hotéis escolhidos.
 
 
 
