@@ -125,10 +125,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Cadastro de usuarios | ALTA | 
 |RF-002| Login   | ALTA |
 |RF-003| Efetuar pagamento  | ALTA |
-|RF-004| Mecanismo de busca   | ALTA |
-|RF-005| Filtro  | MÉDIA |
-|RF-006| Avaliar pacotes   | BAIXA |
-|RF-007| Mensagem   | BAIXA |
+|RF-004| Mecanismo de busca (buscar por um pacote específico)   | ALTA |
+|RF-005| Filtro de buscas (escolher local e preços)  | MÉDIA |
+|RF-006| Avaliar pacotes (avaliar de 0 a 5 quão útil foi o pacote)   | BAIXA |
+|RF-007| Mensagem  | BAIXA |
 
 
 
