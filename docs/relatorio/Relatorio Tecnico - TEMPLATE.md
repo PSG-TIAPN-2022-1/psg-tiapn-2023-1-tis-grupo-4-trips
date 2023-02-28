@@ -103,14 +103,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Maria Gabriela Soares | Segurança da bagagem     | Um melhor aproveitamento da viagem sem preocupação           |
-|Maria Gabriela Soares     | Passagens aereas inclusas               | Facilitar o Transporte |
-|Joao Pedro Oliveira       |Parque de Diversoes                | Lazer com seu irmao novo |
-|Joao Pedro Oliveira      | Hotel com piscina                | Maior lazer |
-|Luis Souza Rodrigues      | Alterar permissões                 | Permitir que possam administrar contas |
-|Luis Souza Rodrigues       | Alterar permissões                 | Permitir que possam administrar contas |
-|Ana Almeida      | Preços acessiveis                 | Para conseguir efetuar o pagamento |
-|José Almeida       | Transporte na viagem                | Se locomover de um lugar para o outro |
+|Maria Gabriela Soares | Sentir segurança no despache de bagagem    | Um melhor aproveitamento da viagem sem preocupação           |
+|Maria Gabriela Soares     | Passagens aereas inclusas no pacote             | Facilitando o Planejamento da viagem|
+|Joao Pedro Oliveira       |Um hotel com area de playground                | Brincar com seu irmao  |
+|Joao Pedro Oliveira      | Um hotel com piscina                | Se refrescar no calor e para o lazer |
+|Luis Souza Rodrigues      | Pacotes de viagem com preço assessivel  | Permitir a compra do pacote  |
+|Luis Souza Rodrigues       | Hotel com academia | Permitir que faça atividade fisica|
+|Ana Almeida      | Hotel tenha cafe da manha incluso                | Selecionar um hotel ideial |
+|José Almeida       | Pacotes com inclusão de alugueis de carro  | Se locomover de um lugar para o outro na viagem |
 
 
 
