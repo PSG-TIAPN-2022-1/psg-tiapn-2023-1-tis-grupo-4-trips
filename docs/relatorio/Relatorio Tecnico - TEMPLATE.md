@@ -53,22 +53,22 @@ Sistema de Informação
 
 ## Problema
 
-O problema em questão se refere a dificuldade que as pessoas tem de conseguir pacotes de viagem em preços favoráveis, de maneira segura, confiável e prática. Alguns sites ou agências oferecem preços exorbitantes para pacotes que não condizem com o esperado, além de locais perigosos com possíveis golpes. O nosso projeto buscará por preços competitivos com a concorrência de maneira condizente e justa em busca da melhor experiência para o cliente.
+O problema em questão se refere a dificuldade que as pessoas tem de conseguir pacotes de viagem em preços favoráveis, de maneira segura, confiável e prática. Alguns sites ou agências oferecem preços exorbitantes para pacotes que não condizem com o esperado, além de locais perigosos com possíveis golpes. O nosso projeto buscará por preços competitivos com a concorrência de maneira condizente e justa em busca da melhor experiência para o cliente, oferecendo segurança, transparência e praticidade para o cliente poder usufruir de sua viagem.
 
 ## Objetivos
 
-Temos como objetivo para solucionar tal problema o desenvolvimento de um software oferecendo de maneira simples e prática, pacotes de viagem e relacionados mostrando melhores preços e opções para se realizar uma viagem, além de catálogos de turismo com alta variedade para dar opções para o cliente. Temos como objetivo específico oferecer melhores preços para pacotes de viagem, além de ter um enfoque grande na segurança do cliente, para que possa usufruir de sua viagem da melhor maneira.
+Temos como objetivo para solucionar tal problema o desenvolvimento de um software oferecendo de maneira simples e prática, pacotes de viagem e relacionados mostrando melhores preços e opções para se realizar uma viagem, além de catálogos de turismo com alta variedade para dar opções para o cliente. Temos como objetivo específico oferecer melhores preços para pacotes de viagem, além de ter um enfoque grande na segurança do cliente, para que possa usufruir de sua viagem da melhor maneira. Também disponibilizaremos um sistema de avaliação para que o cliente possa analisar qual o melhor lugar a se viajar e em que hotel se hospedar, além de uma comunicação entre o usuário e os hotéis escolhidos
 
 
 
 ## Justificativa
 
-Estamos propondo trabalhar com a área de pacotes de viagem após notar a quantidade exorbitante de pessoas sofrendo com golpes ou fraudes em sua hora de lazer, o que é esperado em uma viagem nesse tipo. De acordo com o sócio da KPMG Claúdio Sotto, "30% das tentativas de compra de passagem pela internet são fraudulentas", reforça a gravidade do assunto envolvendo agências de viagem online.
+Estamos propondo trabalhar com a área de pacotes de viagem após notar a quantidade exorbitante de pessoas sofrendo com golpes ou fraudes em sua hora de lazer, o que é esperado em uma viagem nesse tipo. De acordo com o sócio da KPMG Claúdio Sotto, "30% das tentativas de compra de passagem pela internet são fraudulentas", reforça a gravidade do assunto envolvendo agências de viagem online. Nossa preocupação nessa área nos propôs a entrar nesse mercado tentando oferecer o melhor preço disponível de viagens num software seguro para todas as idades.
 
 
 ## Público-Alvo
 
-Temos como público-alvo uma margem ampla por estar relacionado a pessoas que buscam viajar, e isso não envolve a necessidade de uma limitação de idade, pela possibilidade de qualquer idade ter o interesse em viajar em algum local, desde crianças acompanhadas por adultos, ou grupos de jovens em busca de aventuras, idosos em busca de tranquilidade, e muitos outros casos.
+Temos como público-alvo uma margem ampla por estar relacionado a pessoas que buscam viajar, e isso não envolve a necessidade de uma limitação de idade, pela possibilidade de qualquer idade ter o interesse em viajar em algum local, desde crianças acompanhadas por adultos, ou grupos de jovens em busca de aventuras, idosos em busca de tranquilidade, e muitos outros casos. Produziremos um site prático e simplificado justamente para englobar todas as idades que tenham interesse de se aventurar pelo mundo.
 
  
 # Especificações do Projeto
