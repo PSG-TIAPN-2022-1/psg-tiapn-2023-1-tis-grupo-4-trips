@@ -235,9 +235,9 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 >  Diante disso :
 >
 > - Primeiro passo do grupo foi propor as ideias e logo apos a reuniao inicial , separamos as tarefas que cada um devia efetuar no GitHub para finalizar as solicitações que o Sprint 1 pedia. 
-> Posteriormente , começamos os trabalhos individuais .
-> Logo , fizemos a segunda reuniao para debater os feitos e analisar mudanças a serem feitas 
-> Portanto , nosso proximo passo a ser efetuado é a implementação de um codigo de Front e BD para comerçarmos as ideias para os proximos Sprints
+> - Posteriormente , começamos os trabalhos individuais .
+> - Logo , fizemos a segunda reuniao para debater os feitos e analisar mudanças a serem feitas 
+> - Portanto , nosso proximo passo a ser efetuado é a implementação de um codigo de Front e BD para comerçarmos as ideias para os proximos Sprints
 
 
 
