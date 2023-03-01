@@ -53,7 +53,7 @@ Sistema de Informação
 
 ## Problema
 
-O problema em questão se refere a dificuldade que as pessoas tem de conseguir pacotes de viagem em preços favoráveis, de maneira segura, confiável e prática. Alguns sites ou agências oferecem preços exorbitantes para pacotes que não condizem com o esperado, além de locais perigosos com possíveis golpes. O nosso projeto buscará por preços competitivos com a concorrência de maneira condizente e justa em busca da melhor experiência para o cliente, oferecendo segurança, transparência e praticidade para o cliente poder usufruir de sua viagem.
+O problema em questão se refere a dificuldade que as pessoas tem de conseguir pacotes de viagem em preços favoráveis, de maneira segura, confiável e prática.Se tornaram comum nos ultimos anos hoteis dando golpes , ausencia de segurança no despache da mala , além de locais fantasmas e perigosos . O nosso projeto buscará por preços competitivos com a concorrência de maneira condizente e justa em busca da melhor experiência para o cliente, oferecendo segurança, transparência e praticidade para o cliente poder usufruir de sua viagem.
 
 ## Objetivos
 
