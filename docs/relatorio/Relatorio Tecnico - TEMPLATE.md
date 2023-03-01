@@ -230,8 +230,13 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 |Repositório de código | GitHub | https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips  | 
 |Protótipo Interativo | MavelApp  | (https://marvelapp.com/prototype/923c92a)| 
 
-> - Controle de Versão :
-> Primeiro passo
+>  Controle de Versão é comumente utilizado pelos desenvolvedores , pois ele registrar o histórico de alteração, adicionar novas funcionalidades e testá-las em branches diferentes da principal, ter duas ou mais pessoas trabalhando no mesmo arquivo sem sobrescrever o código, entre diversos outros recursos que facilitam o desenvolvimento de software. 
+>  
+>  Diante disso :
+>
+> - Primeiro passo do grupo foi propor as ideias e logo apos a reuniao inicial , separamos as tarefas que cada um devia efetuar no GitHub para finalizar as solicitações que o Sprint 1 pedia. 
+
+
 
 
 
