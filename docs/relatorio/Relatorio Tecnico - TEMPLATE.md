@@ -235,26 +235,16 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 >  Diante disso :
 >
 > - Primeiro passo do grupo foi propor as ideias e logo apos a reuniao inicial , separamos as tarefas que cada um devia efetuar no GitHub para finalizar as solicitações que o Sprint 1 pedia. 
+> Posteriormente , começamos os trabalhos individuais .
+> Logo , fizemos a segunda reuniao para debater os feitos e analisar mudanças a serem feitas 
+> Portanto , nosso proximo passo a ser efetuado é a implementação de um codigo de Front e BD para comerçarmos as ideias para os proximos Sprints
 
 
 
 
 
 
-> O projeto segue a seguinte convenção para o nome de branchs:
-> 
-> - `master`: versão estável já testada do software
-> - `unstable`: versão já testada do software, porém instável
-> - `testing`: versão em testes do software
-> - `dev`: versão de desenvolvimento do software
-> 
-> 
-> 
-> - `bugfix`: uma funcionalidade encontra-se com problemas
-> - `enhancement`: uma funcionalidade precisa ser melhorada
-> - `feature`: uma nova funcionalidade precisa ser introduzida
->
->
+
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
