@@ -190,26 +190,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A equipe utiliza o Scrum, que é um método ágil para o desenvolvimento do projeto. 
 
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+Cada membro da equipe iniciou uma tarefa diferente, otimizando o tempo e a produção do Sprint 1, que consiste na idealização do site e a produção de wireframes, requisitos, personas, histórias de usuário e mapas de empatia.
+
+O grupo se reuniu por chamada e discutiu sobre o atual Sprint 1, ajudando no que ainda não foi terminado e melhorando as partes que eram possíveis. A metodologia Scrum potencializou o trabalho em equipe e permitiu o cumprimento dos prazos estipulados por meio do acompanhamento da evolução do projeto. 
+
+Utilizamos o GitHub, onde cada um pode preencher o Sprint 1 com cada parte feita e observas as tarefas feitas pelos outros membros do grupo, Também utiiizamos o Trellis para uma divisão de tarefas mais organizada.
 
 ## Divisão de Papéis
-A equipe utiliza o Scrum, que é um método ágil para o desenvolvimento do projeto. 
  
 A equipe está organizada da seguinte forma: 
  
