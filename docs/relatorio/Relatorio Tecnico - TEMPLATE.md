@@ -133,7 +133,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Mecanismo de busca (buscar por um pacote específico)   | ALTA |
 |RF-005| Filtro de buscas (escolher local, data e preços)  | MÉDIA |
 |RF-006| Avaliar pacotes (avaliar de 0 a 5 quão útil foi o pacote)   | BAIXA |
-|RF-007| Mensagem  | BAIXA |
+|RF-007| Mensagens entre cliente e hoteis | BAIXA |
 
 
 
@@ -141,10 +141,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 4s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | ALTA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 4s |  MÉDIA | 
 |RNF-003| O site será feito em HTML5, CSS E JAVASCRIPT |  ALTA | 
-|RNF-004| O site deve comunicar com banco de dados sql |  ALTA | 
+|RNF-004| O site deve comunicar com banco de dados SQL |  ALTA | 
 
 
 
