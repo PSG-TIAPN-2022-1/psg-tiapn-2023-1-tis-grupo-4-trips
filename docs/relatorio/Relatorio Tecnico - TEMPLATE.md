@@ -230,19 +230,12 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 |Repositório de código | GitHub | https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips  | 
 |Protótipo Interativo | MavelApp  | (https://marvelapp.com/prototype/923c92a)| 
 
+> - Controle de Versão :
+> Primeiro passo
 
-## Controle de Versão
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
-> A ferramenta de controle de versão adotada no projeto foi o
-> [Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-> foi utilizado para hospedagem do repositório `upstream`.
-> 
+
 > O projeto segue a seguinte convenção para o nome de branchs:
 > 
 > - `master`: versão estável já testada do software
@@ -250,21 +243,13 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 > - `testing`: versão em testes do software
 > - `dev`: versão de desenvolvimento do software
 > 
-> Quanto à gerência de issues, o projeto adota a seguinte convenção para
-> etiquetas:
+> 
 > 
 > - `bugfix`: uma funcionalidade encontra-se com problemas
 > - `enhancement`: uma funcionalidade precisa ser melhorada
 > - `feature`: uma nova funcionalidade precisa ser introduzida
 >
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-> - [5 Git Workflows & Branching Strategy to deliver better code](https://zepel.io/blog/5-git-workflows-to-improve-development/)
 >
-> **Exemplo - GitHub Feature Branch Workflow**:
->
-> ![Exemplo de Wireframe](images/Github-Workflow.png)
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
