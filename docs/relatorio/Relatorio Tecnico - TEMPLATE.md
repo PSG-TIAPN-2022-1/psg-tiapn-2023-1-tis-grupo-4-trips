@@ -154,9 +154,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
+|01| O site não irá aceitar PIX como forma de pagamento |
+|02| O projeto não irá tratar com acomodações privadas, como AirBNB, apenas hotéis/chalés |
+|03| O projeto deve estar de acordo com a LGPD|
 
 
 # Projeto de Interface
