@@ -73,7 +73,7 @@ Estamos propondo trabalhar com a área de pacotes de viagem após notar a quanti
 
 ## Público-Alvo
 
-Temos como público-alvo uma margem ampla por estar relacionado a pessoas que buscam viajar, e isso não envolve a necessidade de uma limitação de idade, pela possibilidade de qualquer idade ter o interesse em viajar em algum local, desde crianças acompanhadas por adultos, ou grupos de jovens em busca de aventuras, idosos em busca de tranquilidade, e muitos outros casos. Produziremos um site prático e simplificado justamente para englobar todas as idades que tenham interesse de se aventurar pelo mundo.
+Temos como público-alvo do nosso site  pessoas entre 15 aos 75 anos , porém em uma margem ampla qualquer pessoa que buscam viajar, e isso não envolve a necessidade de uma limitação, pela possibilidade de qualquer pessoa ter o interesse em viajar em algum local, desde crianças acompanhadas por adultos, ou grupos de jovens em busca de aventuras, idosos em busca de tranquilidade, e muitos outros casos. Produziremos um site prático e simplificado justamente para englobar todas as idades que tenham interesse de se aventurar pelo mundo.
 
  
 # Especificações do Projeto
