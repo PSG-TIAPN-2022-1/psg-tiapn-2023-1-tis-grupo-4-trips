@@ -40,7 +40,7 @@ Sistema de Informação
   - [Controle de Versão](#controle-de-versão)
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Modelagem de Processos de Negócio](#modelagem-de-processos-de-negocios)
-  -[Situação Atual da Modelagem](#situacao-atual-da-modelagem)
+  - [Situação Atual da Modelagem](#situacao-atual-da-modelagem)
   - [Situação de Modelagem com a Ideia Aperfeiçoada](#situacao-de-modelagem-com-a-ideia-aperfeicoada)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -249,13 +249,33 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 # Modelagem de Processos de Negócio
 
-## Situação Atual da Modelagem 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
+## Situação Atual da Modelagem 
+
+......  COLOQUE AQUI O SEU TEXTO ......
+
+> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
+> problema, ou seja, implementar a sua solução. Liste todas as
+> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
+> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+> Apresente também uma figura explicando como as tecnologias estão
+> relacionadas ou como uma interação do usuário com o sistema vai ser
+> conduzida, por onde ela passa até retornar uma resposta ao usuário.
+> 
 
 ## Situação de Modelagem com a Ideia Aperfeiçoada
 
 ......  COLOQUE AQUI O SEU TEXTO ......
+
+> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
+> problema, ou seja, implementar a sua solução. Liste todas as
+> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
+> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+> Apresente também uma figura explicando como as tecnologias estão
+> relacionadas ou como uma interação do usuário com o sistema vai ser
+> conduzida, por onde ela passa até retornar uma resposta ao usuário.
+> 
 
 # Projeto da Solução
 
@@ -278,7 +298,7 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 > item textualmente comentando e complementando o que está apresentado
 > nas imagens.
 
-## Arquitetura da solução
+# Arquitetura da solução
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
 
