@@ -248,13 +248,13 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 # **############## SPRINT 1 ACABA AQUI #############**
 
-# Situação Atual da Modelagem 
+## Situação Atual da Modelagem 
+......  COLOQUE AQUI O SEU TEXTO ......
 
 
+## Situação de Modelagem com a Ideia Aperfeiçoada
 
-# Situação de Modelagem com a Ideia Aperfeiçoada
-
-
+......  COLOQUE AQUI O SEU TEXTO ......
 
 # Projeto da Solução
 
