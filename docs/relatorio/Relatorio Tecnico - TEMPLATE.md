@@ -253,7 +253,8 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 ## Situação Atual da Modelagem 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+![Projeto TIS - MOdelagem de fluxo](https://user-images.githubusercontent.com/103125164/227254779-0d0877e6-8bb0-48df-bb99-8b506ec5314b.png)
+
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
