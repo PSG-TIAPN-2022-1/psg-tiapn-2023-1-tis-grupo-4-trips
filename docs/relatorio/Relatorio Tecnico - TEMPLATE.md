@@ -40,6 +40,8 @@ Sistema de Informação
   - [Controle de Versão](#controle-de-versão)
 - [**############## SPRINT 1 ACABA AQUI #############**](#-sprint-1-acaba-aqui-)
 - [Modelagem de Processos de Negócio](#modelagem-de-processos-de-negocios)
+  -[Situação Atual da Modelagem](#situacao-atual-da-modelagem)
+  - [Situação de Modelagem com a Ideia Aperfeiçoada](#situacao-de-modelagem-com-a-ideia-aperfeicoada)
 - [Projeto da Solução](#projeto-da-solução)
   - [Tecnologias Utilizadas](#tecnologias-utilizadas)
   - [Arquitetura da solução](#arquitetura-da-solução)
