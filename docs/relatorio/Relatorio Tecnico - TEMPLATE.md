@@ -249,7 +249,7 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 # Modelagem de Processos de Negócio
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Plano de processos do Site :
 
 ## Situação Atual da Modelagem 
 
