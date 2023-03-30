@@ -257,7 +257,8 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 ## Situação de Modelagem com a Ideia Aperfeiçoada
 
-...... EM EXECUÇÃO ......
+![diagram_1](https://user-images.githubusercontent.com/103125164/228882782-7841d30d-4ecf-4d7a-a812-4de9505ef4f6.jpeg)
+
 
 # Projeto da Solução
 
