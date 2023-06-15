@@ -280,7 +280,8 @@ Plano de processos do Site :
 * Trello - Utilizando o kanban para organização durante o desenvolvimento do projeto.
 * Replit - Para hospedagem do dite.
 * Visual Studio Code - Como editor de código.
-* WhatsApp e Discord - Para comunicação entre os desenvolvedores.
+* WhatsApp , Discord e Teams - Para comunicação entre os desenvolvedores.
+* 
 # Arquitetura da solução
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
