@@ -243,7 +243,7 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 
 
-# **############## SPRINT 1 ACABA AQUI #############**
+# **# SPRINT 2 EM DIANTE #**
 
 
 # Modelagem de Processos de Negócio
