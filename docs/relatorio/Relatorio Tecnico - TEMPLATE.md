@@ -297,9 +297,9 @@ Plano de processos do Site :
 | ID | CENÁRIO | CASO DE TESTE |
 |----|---------|-----------------------|
 | 1 | `Cadastrar um usuário` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar em área do cliente <br> `3.` Preencher os campos" <br> `4.` Clicar no botão "Inserir" <br> <br><br> Após clicar no botão, o sistema mostrará o usuário cadastrado em uma lista contento suas informações pessoais e sua categoria. | CT-01|
-| 2 | `Visualizar uma notícia` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar na página "Início" localizada no topo da página. <br> `3.` Clicar em "Notícias" <br><br> Após o carregamento da página, o usuário poderá escolher a notícia que deseja visualizar. | CT-02 |
-| 3 | `Visualizar ONG's cadastradas` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar na aba "ONG's" no topo da página <br>  <br><br> Após, o sistema retornará uma tela com os detalhes de todas as ONG's cadastradas e opção para cadastrar uma nova ONG. | CT-03 |
-| 4 | `Jogo do Lenhador` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar na aba "Início" no topo da página <br> `3.` Após, o sistema retornará uma tela com os detalhes de reportagens, notícias, previsão do tempo. <br> `4.` Clicar na logo "Desastres Ambientais". <br><br> Após, o sistema retornará uma tela com o jogo do lenhador.   | CT-04 |
+| 2 | `Colocar Data de Ida e Volta , Quantidade de Viajantes ` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar na página "Início" localizada no topo da página. <br> `3.` Clicar em "Notícias" <br><br> Após o carregamento da página, o usuário poderá escolher a notícia que deseja visualizar. | CT-02 |
+| 3 | `Sobre` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar na aba "ONG's" no topo da página <br>  <br><br> Após, o sistema retornará uma tela com os detalhes de todas as ONG's cadastradas e opção para cadastrar uma nova ONG. | CT-03 |
+| 4 | `` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar na aba "Início" no topo da página <br> `3.` Após, o sistema retornará uma tela com os detalhes de reportagens, notícias, previsão do tempo. <br> `4.` Clicar na logo "Desastres Ambientais". <br><br> Após, o sistema retornará uma tela com o jogo do lenhador.   | CT-04 |
 
 
 ## Registros de Testes
@@ -309,11 +309,7 @@ Plano de processos do Site :
 * Mário: Um jovem de 21 anos,
 * Raquel : 
 * Eleni: Uma mulher de 32 anos
-* Vanderléia: Uma senhora de 58 anos, que busca sempre se manter atualizada nas notícias fez o teste de usabilidade e sua maior dificuldade foi ao fazer login, pois não está tão acostumada com as novas tecnologias.
-* Daniel: Um senhor de 60 anos, que está acostumado a se manter atualizado através de jornais e revistas, decidiu fazer a migração para os portais online. Ao fazer o teste, gostou muito de como a plataforma se apresenta sendo clara e objetiva.
-* Mário: Um jovem de 21 anos, gosta muito de se manter atualizado nas notícias do momento, para estar informado sobre os acontecimentos para conersar com os amigos da faculdade. Ao realizar o teste, ele achou o site com uma interface inovadora com opção de jogos para interação com usuário.
-* Luiza: Uma adolescente de 14 anos, que mora em área de risco e gosta de fazer pesquisas sobre desastres ambientais para se manter informada. Ao fazer o teste, achou bem simplificado o modo como o site se apresenta, sendo de fácil manuseio, além disso, achou bem completo por ser um site com foco total nesse assunto.
-* Fabiana: Uma mulher de 32 anos, que faz trabalhos voluntários junto com ONG's. Ao fazer o teste, gostou muito da iniciativa de ter uma página com várias ONG's que ajudam pessoas vítimas dos desastres, e também fez o cadastro da ONG em que é voluntária.
+
 
 # Referências
 
