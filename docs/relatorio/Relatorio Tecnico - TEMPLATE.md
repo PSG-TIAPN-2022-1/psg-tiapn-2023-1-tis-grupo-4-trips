@@ -281,10 +281,10 @@ Plano de processos do Site :
 * Replit - Para hospedagem do dite.
 * Visual Studio Code - Como editor de código.
 * WhatsApp , Discord e Teams - Para comunicação entre os desenvolvedores.
-* 
+
 # Arquitetura da solução
 
-*O código foi desenvolvido nas linguagens HTML, CSS , JavaScript e SQL (banco de dados ) e conectado ao Local Storage para que seja possível os cadastros de usuários e de informações. Enviamos o projeto criado para internet através de uma hospedagem na plataforma Replit.
+* O código foi desenvolvido nas linguagens HTML, CSS , JavaScript e SQL (banco de dados ) e conectado ao Local Storage para que seja possível os cadastros de usuários e de informações. Enviamos o projeto criado para internet através de uma hospedagem na plataforma Replit.
 
 ![Internet](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/5cc1e1da-b322-4664-9e47-67a618a53d55)
 
