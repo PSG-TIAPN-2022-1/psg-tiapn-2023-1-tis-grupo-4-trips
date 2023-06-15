@@ -1,7 +1,6 @@
 # Projeto Trips
 
-O objetivo do grupo é efetuar um site utilizando um banco de dados, afim de facilitar a procura de pacotes (descontos , passagens e hoteis ) de viagens.
-No entanto , buscamos trazer no nosso site um catalogo diversificado de viagens com preços acessiveis , roteiro de turismo , segurança e flexibilidade no pagamento.
+Bem-vindo ao Projeto Trips - sua plataforma de viagens online, onde buscamos tornar a procura por pacotes de viagens, descontos, passagens aéreas e hotéis mais fácil e acessível. Nosso objetivo é oferecer aos usuários um catálogo diversificado de opções de viagens, garantindo preços acessíveis, roteiros turísticos atrativos, segurança e flexibilidade no pagamento. Nossa plataforma foi desenvolvida utilizando um robusto banco de dados, que nos permite disponibilizar informações atualizadas e personalizadas para cada usuário.
 
 
 ## Alunos integrantes da equipe
