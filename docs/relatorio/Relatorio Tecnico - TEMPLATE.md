@@ -328,13 +328,11 @@ Plano de processos do Site :
 
 ## Registros de Testes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Discorra sobre os resultados do teste. Ressaltando pontos fortes e
-> fracos identificados na solução. Comente como o grupo pretende atacar
-> esses pontos nas próximas iterações. Apresente as falhas detectadas e
-> as melhorias geradas a partir dos resultados obtidos nos testes.
-
+* Vanderléia: Uma senhora de 58 anos
+* Laura: 
+* Mário: Um jovem de 21 anos,
+* Raquel : 
+* Eleni: Uma mulher de 32 anos
 
 # Referências
 
