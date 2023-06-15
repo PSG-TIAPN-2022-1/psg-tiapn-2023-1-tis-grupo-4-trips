@@ -261,24 +261,26 @@ Plano de processos do Site :
 
 # Projeto da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+* Criação de um site de agencia de viagem.
+* Informações sobre viagens e pacotes , dando ao cliente oportunidade de selecionar a data de ida e volta e quantidade de pessoas na viagem
+* Oportunidade de reservas em hoteis e passagens aereas.
+* Fornecer informações detalhadas sobre destinos das viagens .
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
-> Apresente também uma figura explicando como as tecnologias estão
-> relacionadas ou como uma interação do usuário com o sistema vai ser
-> conduzida, por onde ela passa até retornar uma resposta ao usuário.
-> 
-> Inclua os diagramas de User Flow, esboços criados pelo grupo
-> (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
-> item textualmente comentando e complementando o que está apresentado
-> nas imagens.
+![Projeto](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/daf3aeec-626b-4c1a-935e-2ef5fef807f0)
+
+
+
+> Design Thinking - Para oferecer o produto de acordo com a real necessidade do cliente.
+> Scrum - Para trabalhar em equipe de maneira ágil para chegar nas soluções.
+> Github - Como repositor de código.
+> MarvelApp - Para criar wireframes e protótipo interativo.
+> Trello - Utilizando o kanban para organização durante o desenvolvimento do projeto.
+> Replit - Para hospedagem do dite.
+> Visual Studio Code - Como editor de código.
+> WhatsApp , Discord e Teams - Para comunicação entre os desenvolvedores.
 
 # Arquitetura da solução
 
