@@ -273,15 +273,14 @@ Plano de processos do Site :
 
 
 
-> Design Thinking - Para oferecer o produto de acordo com a real necessidade do cliente.
-> Scrum - Para trabalhar em equipe de maneira ágil para chegar nas soluções.
-> Github - Como repositor de código.
-> MarvelApp - Para criar wireframes e protótipo interativo.
-> Trello - Utilizando o kanban para organização durante o desenvolvimento do projeto.
-> Replit - Para hospedagem do dite.
-> Visual Studio Code - Como editor de código.
-> WhatsApp , Discord e Teams - Para comunicação entre os desenvolvedores.
-
+* Design Thinking - Para oferecer o produto de acordo com a real necessidade do cliente.
+* Scrum - Para trabalhar em equipe de maneira ágil para chegar nas soluções.
+* Github - Como repositor de código.
+* MarvelApp - Para criar wireframes e protótipo interativo.
+* Trello - Utilizando o kanban para organização durante o desenvolvimento do projeto.
+* Replit - Para hospedagem do dite.
+* Visual Studio Code - Como editor de código.
+* WhatsApp e Discord - Para comunicação entre os desenvolvedores.
 # Arquitetura da solução
 
 ......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
