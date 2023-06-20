@@ -293,11 +293,10 @@ Plano de processos do Site :
 
 | ID | CENÁRIO | CASO DE TESTE |
 |----|---------|-----------------------|
-| 1 | `Cadastrar um usuário` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar em área do cliente <br> `3.` Preencher os campos" <br> `4.` Clicar no botão "Inserir" <br> <br><br> Após clicar no botão, o sistema mostrará o usuário cadastrado em uma lista contento suas informações pessoais e sua categoria. | CT-01|
-| 2 | `Colocar Data de Ida e Volta , Quantidade de Viajantes ` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar na página "Início" localizada no topo da página. <br> `3.` Clicar em "Notícias" <br><br> Após o carregamento da página, o usuário poderá escolher a notícia que deseja visualizar. | CT-02 |
-| 3 | `Sobre` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar na aba "ONG's" no topo da página <br>  <br><br> Após, o sistema retornará uma tela com os detalhes de todas as ONG's cadastradas e opção para cadastrar uma nova ONG. | CT-03 |
-| 4 | `` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar na aba "Início" no topo da página <br> `3.` Após, o sistema retornará uma tela com os detalhes de reportagens, notícias, previsão do tempo. <br> `4.` Clicar na logo "Desastres Ambientais". <br><br> Após, o sistema retornará uma tela com o jogo do lenhador.   | CT-04 |
-
+| 1 | `Logar e Cadastrar um Usuario ` <br><br> Passo a passo: <br> `1.` Na pagina Inicial selecionar a opção Conta <br> `2.` Opção de Cadastrar ou de Ir para Login <br> `3.` Somente selecionar opçao desejada" <br> `4.`Preencher os campos com seus dados " <br> <br><br> Após clicar no botão Entrar , o sistema mostrará a home com pacotes de viagens disponiveis. | CT-01|
+| 2 | `Colocar Data de Ida e Volta , Quantidade de Viajantes ` <br><br> Passo a passo: <br> `1.` Fazer login <br> `2.` Clicar na página "Home" localizada no topo da página. <br> `3.` Clicar em qual pacote de viagem disponivel voce gostaria de dar uma olhada <br> `4.` Após o carregamento da página, o usuário poderá escolher qual data e quantas pessoas deseja incluir no pacote , somente selecionando a data e quantidade | CT-02 |
+| 3 | `Ver pacotes` <br><br> Passo a passo: <br> `1.` Abrir o site  <br> `2.` Clicar na aba Pacotes no topo da página <br> `3.` Após, o sistema retornará uma tela com pacotes disponiveis <br> `4.` Ao clicar no pacote escolhido ira aparecer um pouco sobre a viagem e a opcao de selecionar data e quantidade de pessoas. | CT-03 |
+| 4 | `Sobre` <br><br> Passo a passo: <br> `1.`  Abrir o site  <br> `2.` Clicar na aba Contatos no topo da página <br>  <br><br> Após, o sistema retornará uma tela com os detalhes dos contatos, alem disso tambem terá algumas opçoes de serviços que a agencia Trips oferece. | CT-04 |
 
 ## Registros de Testes
 
