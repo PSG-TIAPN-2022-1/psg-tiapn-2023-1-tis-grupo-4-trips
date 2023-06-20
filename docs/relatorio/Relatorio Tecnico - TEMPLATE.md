@@ -309,11 +309,5 @@ Plano de processos do Site :
 
 # Referências
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua todas as referências (livros, artigos, sites, etc) utilizados
-> no desenvolvimento do trabalho.
-> 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+> - Google LLC. Google Images. Disponível em: https://images.google.com. Acesso em: 20 jun. 2023.
