@@ -250,13 +250,14 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 Plano de processos do Site :
 
-## Situação Atual da Modelagem 
+## Projetos de Modelagem De Diagramas
 
 ![Projeto TIS - MOdelagem de fluxo](https://user-images.githubusercontent.com/103125164/227254779-0d0877e6-8bb0-48df-bb99-8b506ec5314b.png)
 
-## Situação de Modelagem com a Ideia Aperfeiçoada
-
 ![diagram_1](https://user-images.githubusercontent.com/103125164/228882782-7841d30d-4ecf-4d7a-a812-4de9505ef4f6.jpeg)
+
+![Diagrama BD de TIS drawio](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/8e7508c2-e5ea-4a11-983d-6d98c4eddbaa)
+
 
 
 # Projeto da Solução
