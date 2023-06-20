@@ -242,10 +242,6 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 > - Portanto , nosso proximo passo a ser efetuado é a implementação de um codigo de Front e BD para comerçarmos as ideias para os proximos Sprints
 
 
-
-# **# SPRINT 2 EM DIANTE #**
-
-
 # Modelagem de Processos de Negócio
 
 Plano de processos do Site :
