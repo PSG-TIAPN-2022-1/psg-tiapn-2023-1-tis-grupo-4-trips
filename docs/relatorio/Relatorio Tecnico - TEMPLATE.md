@@ -301,11 +301,11 @@ Plano de processos do Site :
 
 ## Registros de Testes
 
-* Vanderléia: Uma senhora de 58 anos
-* Laura: 
-* Mário: Um jovem de 21 anos,
-* Raquel : 
-* Eleni: Uma mulher de 32 anos
+* Vanderléia: Uma senhora de 58 anos, que tem interesse em visitar o site Trips Pacotes, pois é uma oportunidade de relaxar e desfrutar de um tempo longe da rotina diária e, além disso, é uma ótima maneira de explorar novos lugares, conhecer novas culturas e experimentar coisas novas. Ela deseja viajar de forma segura e confiável.
+* Laura: Uma mãe jovem de 29 anos, que busca desenvolver habilidades sociais, criativas e cognitivas, pois viajar estimula o contato com diferentes realidades, desafios e oportunidades. Ela deseja um pacote de viagem com interesse em ter hotéis e passagens aéreas inclusas.
+* Mário: Um jovem de 22 anos, que quer ter oportunidade de se aventurar e sair da zona de conforto, além de ser uma ótima maneira de criar memórias inesquecíveis. Viajar também pode ajudar a desenvolver habilidades importantes, como planejamento, organização e independência. Ele deseja viajar com pacotes prontos e que caibam no orçamento dele.
+* Raquel: Senhora de 62 anos, tem interesse em viajar para melhorar a saúde física e mental, pois viajar revitaliza, aumenta a autoestima, a confiança e a criatividade e, além disso, deseja passar um tempo livre e seguro com o marido que acabou de se aposentar.
+* Eleni: Uma mulher de 32 anos, que quer viajar a fim de uma ótima maneira de se conectar com amigos e familiares e passar um tempo de qualidade juntos. Além disso, viajar pode ajudar a expandir horizontes e trazer novas perspectivas para a vida. Ela deseja ter um roteiro de viagem.
 
 
 # Referências
