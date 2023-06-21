@@ -301,6 +301,9 @@ Plano de processos do Site :
 
 ## Registros de Testes
 
+![testes pessoas familia](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/6fc3ecdc-7dc8-498b-9288-45dcc5d9cd08)
+
+
 * Vanderléia: Uma senhora de 58 anos, que tem interesse em visitar o site Trips Pacotes, pois é uma oportunidade de relaxar e desfrutar de um tempo longe da rotina diária e, além disso, é uma ótima maneira de explorar novos lugares, conhecer novas culturas e experimentar coisas novas. Ela deseja viajar de forma segura e confiável.
 * Laura: Uma mãe jovem de 29 anos, que busca desenvolver habilidades sociais, criativas e cognitivas, pois viajar estimula o contato com diferentes realidades, desafios e oportunidades. Ela deseja um pacote de viagem com interesse em ter hotéis e passagens aéreas inclusas.
 * Mário: Um jovem de 22 anos, que quer ter oportunidade de se aventurar e sair da zona de conforto, além de ser uma ótima maneira de criar memórias inesquecíveis. Viajar também pode ajudar a desenvolver habilidades importantes, como planejamento, organização e independência. Ele deseja viajar com pacotes prontos e que caibam no orçamento dele.
