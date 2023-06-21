@@ -315,3 +315,4 @@ Plano de processos do Site :
 
 
 > - Google LLC. Google Images. Disponível em: https://images.google.com. Acesso em: 20 jun. 2023.
+> - CANVA. Criar designs incríveis com o seu time. Disponível em: https://www.canva.com/. Acesso em: 21 jun. 2023.
