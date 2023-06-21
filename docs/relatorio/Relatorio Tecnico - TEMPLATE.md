@@ -246,7 +246,7 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 Plano de processos do Site :
 
-## Projetos de Modelagem De Diagramas
+## Diagramas do Projeto
 
 ![Projeto TIS - MOdelagem de fluxo](https://user-images.githubusercontent.com/103125164/227254779-0d0877e6-8bb0-48df-bb99-8b506ec5314b.png)
 
