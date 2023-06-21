@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>Formulário de Login e Cadastro no TRIPS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="cadastro.css" />
+</head>
+<body>
+  <header>
+    <nav>
+        <p><a href="Site.html">TRIPS</p>
+    </nav>
+  </header>
+
+  <div class="container">
+    <a class="links" id="paracadastro"></a>
+    <a class="links" id="paralogin"></a>
+     
+    <div class="content">      
+      <!-- FORMULÁRIO DE LOGIN -->
+      <div id="login">
+        <form>
+          <h1>Login</h1>
+          <p>
+            <label for="nome_login">Seu e-mail</label>
+            <input id="nome_login" name="nome_login" required="required" type="text" placeholder=""/>
+          </p>
+           
+          <p>
+            <label for="senha_login">Sua senha</label>
+            <input id="senha_login" name="senha_login" required="required" type="password" placeholder=""/>
+          </p>
+           
+          <p>
+            <input type="button" value="Entrar" onclick="login()"/>
+          </p>
+           
+          <p class="link">
+            Ainda não tem conta?
+            <a href="#paracadastro">Cadastre-se em nosso site!</a>
+          </p>
+        </form>
+      </div>
+ 
+      <!-- FORMULÁRIO DE CADASTRO -->
+      <div id="cadastro">
+        <form>
+          <h1>Cadastro</h1>
+           
+          <p>
+            <label for="nome_cad">Seu nome</label>
+            <input id="nome_cad" name="nome_cad" required="required" type="text" placeholder=""/>
+          </p>
+           
+          <p>
+            <label for="email_cad">Seu e-mail</label>
+            <input id="email_cad" name="email_cad" required="required" type="email" placeholder="ex: antonio@gmail.com"/>
+          </p>
+           
+          <p>
+            <label for="senha_cad">Sua senha</label>
+            <input id="senha_cad" name="senha_cad" required="required" type="password" placeholder="ex. 1234"/>
+          </p>
+           
+          <p>
+            <input type="button" value="Cadastrar" onclick="cadastrar()"/>
+          </p>
+           
+          <p class="link">
+            Já tem conta?
+            <a href="#paralogin">Ir para Login</a>
+          </p>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function cadastrar() {
+      const nome = document.getElementById('nome_cad').value;
+      const email = document.getElementById('email_cad').value;
+      const senha = document.getElementById('senha_cad').value;
+
+      // Fazer uma solicitação POST para a rota de cadastro
+      fetch('http://localhost:8090/Cliente', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ nome, email, senha })
+      })
+      .then(response => response.json())
+      .then(data => {
+        alert(data.message);
+      })
+      .catch(error => {
+        console.error('Erro:', error);
+      });
+    }
+
+    function login() {
+      const email = document.getElementById('nome_login').value;
+      const senha = document.getElementById('senha_login').value;
+
+      // Fazer uma solicitação POST para a rota de login
+      fetch('http://localhost:8090/Cliente', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ email, senha })
+      })
+      .then(response => response.json())
+      .then(data => {
+        alert(data.message);
+        // Redirecionar para a página account.html em caso de login bem-sucedido
+        window.location.href = 'account.html';
+      })
+      .catch(error => {
+        console.error('Erro:', error);
+      });
+    }
+  </script>
+</body>
+</html>
