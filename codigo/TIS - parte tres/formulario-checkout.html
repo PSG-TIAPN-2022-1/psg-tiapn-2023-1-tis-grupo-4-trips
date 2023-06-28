@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <link rel="stylesheet" href="form.css">
+  <header>
+    <nav>
+      <p>TRIPS</p>
+      <ul>
+        <li><a href="Site.html">HOME</a></li>
+        <li><a href="#pacotes">PACOTES</a></li>
+        <li><a href="#servicos">SERVIÇOS</a></li>
+        <li><a href="#contato">CONTATOS</a></li>
+
+        <li><a href="#" data-bs-toggle="dropdown" id="navDrop">CONTA</a>
+          <!--<div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">Login</a>
+                        <a class="dropdown-item" href="#">Cadastrar-se</a>
+                    </div>-->
+        </li>
+      </ul>
+    </nav>
+    <meta charset="utf-8">
+    <title>Formulário de checkout</title>
+</head>
+
+<body>
+  <h1>Finalizar compra</h1>
+  <form action="url_para_enviar_dados_do_formulario" method="post">
+    <fieldset>
+      <h2>Você está quase lá, agora só falta preencher suas informações!</h2>
+      <!--Dados do que vai realizar a transação -->
+      <h3>Dados do pagador</h3>
+      <div>
+        <label for="pessoa"></label>
+        <div class="select-wrapper">
+          <select name="pessoa" id="pessoa">
+            <option value="fisica">Pessoa Física</option>
+            <option value="juridica">Pessoa Jurídica</option>
+          </select>
+        </div>
+        <div class="input-duplo">
+          <div>
+            <label for="nome">Nome: <span>*</span></label>
+            <input type="text" name="nome" id="nome" required>
+          </div>
+          <div>
+            <label for="sobrenome">Sobrenome completo: <span>*</span></label>
+            <input type="text" name="sobrenome" id="sobrenome" required>
+          </div>
+        </div>
+        <div>
+          <label for="nascimento">Nascimento: <span>*</span></label>
+          <input type="text" name="dia" size="2" maxlength="2" value="dd">
+          <input type="text" name="mes" size="2" maxlength="2" value="mm">
+          <input type="text" name="ano" size="4" maxlength="4" value="aaaa">
+
+          <!--<input type="text" name="nome" id="nome" required> -->
+        </div>
+      </div>
+      <div class="input-duplo">
+        <div>
+          <label for="endereco">Endereço: <span>*</span></label>
+          <input type="text" name="endereco" id="endereco" required>
+        </div>
+      </div>
+      <div class="input-simples">
+        <div>
+          <label for="cpf">CPF: <span>*</span></label>
+          <input type="text" name="cep" id="cpf" required>
+        </div>
+        <!--
+                <div class="input-simples">
+                <div>
+                    <label for="sexo">Sexo</label>
+                    <div class="select-wrapper">
+                        <select name="sexo" id="sexo">
+                            <option value="masculino">Masculino</option>
+                            <option value="feminino">Feminino</option>
+                        </select>
+                    -->
+        <div>
+          <label for="nome">Telefone: <span>*</span></label>
+          <input type="text" name="telefone" id="telefone" required>
+        </div>
+        <div>
+          <label for="email">E-mail: <span>*</span></label>
+          <input type="text" name="e-mail" id="e-mail" required>
+        </div>
+        <!--Dados do passageiro -->
+        <!-- EM COMENTÁRIO PARA VER SE O CHAT FEZ CERTO
+                        <h3>Dados do passageiro</h3>
+            <div class="input-duplo">
+                <div>
+                    <label for="nome">Nome: <span>*</span></label>
+                    <input type="text" name="nome" id="nome" required>
+                </div>
+                <div>
+                    <label for="sobrenome">Sobrenome completo: <span>*</span></label>
+                    <input type="text" name="sobrenome" id="sobrenome" required>
+                </div>
+            </div>
+            <div class="input-simples">
+                <div>
+                    <label for="nascimento">Nascimento: <span>*</span></label>
+                    <input type="text" name="nascimento" id="nascimento" required>
+
+                    
+                        <div>
+                            <label for="email">E-mail: <span>*</span></label>
+                            <input type="text" name="e-mail" id="e-mail" required>
+                        </div>
+                         <div>
+                            <label for="nome">Telefone: <span>*</span></label>
+                            <input type="text" name="telefone" id="telefone" required>
+                        </div>
+                </div>
+            </div>
+            <div class="input-duplo">
+                <div>
+                    <label for="cep">CPF: <span>*</span></label>
+                    <input type="text" name="cep" id="cep" required>
+                </div>
+                <div>
+                    
+                    </div>
+                </div>
+            </div>
+        -->
+        <script>
+          // Obter o número de pessoas da URL
+          var queryString = window.location.search;
+          var urlParams = new URLSearchParams(queryString);
+          var numPessoas = urlParams.get('numPessoas');
+
+          // Repetir campos de dados do passageiro de acordo com o número de pessoas
+          for (var i = 1; i <= numPessoas; i++) {
+            document.write('<h3>Dados do passageiro ' + i + '</h3>');
+            document.write('<div class="input-duplo">');
+            document.write('<div>');
+            document.write('<label for="nome-passageiro">Nome: <span>*</span></label>');
+            document.write('<input type="text" name="nome-passageiro" id="nome-passageiro" required>');
+            document.write('</div>');
+            document.write('<div>');
+            document.write('<label for="sobrenome-passageiro">Sobrenome completo: <span>*</span></label>');
+            document.write('<input type="text" name="sobrenome-passageiro" id="sobrenome-passageiro" required>');
+            document.write('</div>');
+            document.write('</div>');
+            document.write('<div class="input-simples">');
+            document.write('<div>');
+            document.write('<label for="nascimento-passageiro">Nascimento: <span>*</span></label>');
+            document.write('<input type="text" name="nascimento-passageiro" id="nascimento-passageiro" required>');
+            document.write('</div>');
+            document.write('<div>');
+            document.write('<label for="email-passageiro">E-mail: <span>*</span></label>');
+            document.write('<input type="text" name="email-passageiro" id="email-passageiro" required>');
+            document.write('</div>');
+            document.write('<div>');
+            document.write('<label for="telefone-passageiro">Telefone: <span>*</span></label>');
+            document.write('<input type="text" name="telefone-passageiro" id="telefone-passageiro" required>');
+            document.write('</div>');
+            document.write('</div>');
+            document.write('<div class="input-duplo">');
+            document.write('<div>');
+            document.write('<label for="cpf-passageiro">CPF: <span>*</span></label>');
+            document.write('<input type="text" name="cpf-passageiro" id="cpf-passageiro" required>');
+            document.write('</div>');
+            document.write('</div>');
+          }
+        </script>
+
+
+
+    </fieldset>
+  </form>
+
+  <a href="formadepagamento.html"><button type="submit">Cadastrar</button></a>
+</body>
+
+</html>
