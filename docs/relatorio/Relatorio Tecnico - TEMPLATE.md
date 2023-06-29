@@ -260,7 +260,7 @@ Plano de processos do Site :
 
 ## Relatorios associados aos processos 
 
-* Diante da BPMN (Business Process Model and Notation) elaborada , quando o usuário cadastrar o desempenho do post, é necessário também cadastrar esse usuário no banco de dados.
+* Diante da BPMN (Business Process Model and Notation) elaborada , quando o usuário cadastrar o desempenho do post é também cadastrar esse usuário no banco de dados.
 
 
 > ![image](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/c29db8b1-fd46-42ff-acc7-75e6953d521f)
