@@ -246,7 +246,7 @@ Se houver muito poucos itens aqui, devemos nos preparar para deixar as tarefas p
 
 Plano de processos do Site :
 
-## Diagramas do Projeto
+## BPMN
 
 ![Projeto TIS - MOdelagem de fluxo](https://user-images.githubusercontent.com/103125164/227254779-0d0877e6-8bb0-48df-bb99-8b506ec5314b.png)
 
@@ -260,9 +260,9 @@ Plano de processos do Site :
 
 ## Relatorios associados aos processos 
 
-![Diagrama BD de TIS drawio](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/8e7508c2-e5ea-4a11-983d-6d98c4eddbaa)
+* Diante da BPMN (Business Process Model and Notation) elaborada acima, quando o usuário cadastrar o desempenho do post, é necessário também cadastrar esse usuário no banco de dados.
+- ![image](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/550f2254-0733-473d-9d5d-cfe28bc175bb)
 
-* Diante do BPMN 
 
 
 # Projeto da Solução
