@@ -263,9 +263,13 @@ Plano de processos do Site :
 * Diante da BPMN (Business Process Model and Notation) elaborada , quando o usuário cadastrar o desempenho do post, é necessário também cadastrar esse usuário no banco de dados.
 
 
-![image](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/c29db8b1-fd46-42ff-acc7-75e6953d521f)
+> ![image](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/c29db8b1-fd46-42ff-acc7-75e6953d521f)
 
-+ codigo de cadastro JS
+
+> ![image](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/f5f01506-0382-4f8e-ba36-7b646f5e98cc)
+
+> ![image](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/cdaa8f75-c31c-47e8-84b6-c4958a07464b)
+
 
 ## Relatorios analíticos
 
