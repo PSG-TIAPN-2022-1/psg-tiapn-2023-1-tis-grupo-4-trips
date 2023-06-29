@@ -283,7 +283,11 @@ Plano de processos do Site :
 * Após a conclusão da compra do pacote desejado pelo cliente, será enviado ao seu email de cadastro a confirmação da aquisição do pacote.
 
 
-+ email chegando + codigo
+> ![image](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/0dea4e2f-1340-4783-a0de-c58dd3ca1e7e)
+
+
+> ![image](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/07a6a77d-30f0-4f40-a7c2-58078ecece25)
+
 
 # Projeto da Solução
 
