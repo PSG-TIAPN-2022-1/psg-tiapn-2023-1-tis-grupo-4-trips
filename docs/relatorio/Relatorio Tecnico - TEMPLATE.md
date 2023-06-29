@@ -275,7 +275,12 @@ Plano de processos do Site :
 
 * Diante das informações fornecidas, é necessário salvar no banco de dados os usuários cadastrados juntamente com suas respectivas compras dos pacotes. A seguir, apresento os usuários cadastrados e as informações referentes às suas compras de pacotes.
 
-+ codigo de banco de dados 
+* Quantidade de usuarios cadastrados
+
+![Pink Payday Budget Pie Chart](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/272463a8-0bd2-48d1-a8f6-76a8f26c1418)
+
+![cd12c8f5-2f41-4e70-a53b-b30ca60e0c6e](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/e9a7885a-a288-43e9-8c75-5fb44f6723b0)
+![afb9116e-9028-4245-9a5c-b209e7422830](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/cf9680af-4ee9-4e8a-b83e-53651f9158de)
 
 
 ## Relatorios desenvolvimento de scripts para automatização do processo
