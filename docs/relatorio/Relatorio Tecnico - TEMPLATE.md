@@ -273,9 +273,8 @@ Plano de processos do Site :
 
 ## Relatorios analíticos
 
-* Diante das informações fornecidas, é necessário salvar no banco de dados os usuários cadastrados juntamente com suas respectivas compras dos pacotes. A seguir, apresento os usuários cadastrados e as informações referentes às suas compras de pacotes.
-
-* Quantidade de usuarios cadastrados
+* Diante das informações fornecidas, é necessário salvar no banco de dados os usuários cadastrados juntamente  com o total de clientes cadastrados .
+> - Quantidade de usuarios cadastrados:
 
 ![Pink Payday Budget Pie Chart](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/272463a8-0bd2-48d1-a8f6-76a8f26c1418)
 
