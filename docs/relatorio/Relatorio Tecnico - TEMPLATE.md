@@ -269,8 +269,9 @@ Plano de processos do Site :
 
 ## Relatorios analíticos
 
+* Diante das informações fornecidas, é necessário salvar no banco de dados os usuários cadastrados juntamente com suas respectivas compras dos pacotes. A seguir, apresento os usuários cadastrados e as informações referentes às suas compras de pacotes.
 
-
++ codigo de banco de dados 
 
 
 ## Relatorios desenvolvimento de scripts para automatização do processo
