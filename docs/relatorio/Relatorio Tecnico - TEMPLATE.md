@@ -257,6 +257,14 @@ Plano de processos do Site :
 ![Diagrama sem nome drawio (2)](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/039e7dc5-a7e2-418d-8c72-3b51a45393e4)
 
 
+
+## Relatorios associados aos processos 
+
+![Diagrama BD de TIS drawio](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/8e7508c2-e5ea-4a11-983d-6d98c4eddbaa)
+
+* Diante do BPMN 
+
+
 # Projeto da Solução
 
 * Criação de um site de agencia de viagem.
