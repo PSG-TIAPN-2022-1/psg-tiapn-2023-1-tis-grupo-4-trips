@@ -265,9 +265,7 @@ Plano de processos do Site :
 
 ![image](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/c29db8b1-fd46-42ff-acc7-75e6953d521f)
 
-![image](https://github.com/PSG-TIAPN-2022-1/psg-tiapn-2023-1-tis-grupo-4-trips/assets/103125164/550f2254-0733-473d-9d5d-cfe28bc175bb)
-
-* Diante
++ codigo de cadastro JS
 
 ## Relatorios analíticos
 
@@ -277,8 +275,10 @@ Plano de processos do Site :
 
 ## Relatorios desenvolvimento de scripts para automatização do processo
 
+* Após a conclusão da compra do pacote desejado pelo cliente, será enviado ao seu email de cadastro a confirmação da aquisição do pacote.
 
 
++ email chegando + codigo
 
 # Projeto da Solução
 
